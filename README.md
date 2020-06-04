@@ -1,13 +1,14 @@
 # **XIX Torneio de Programação UNINOVE**
 ![UNINOVE](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/uninove.png)
 
-Você conhece alguma linguagem de programação? Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes?
+Você é aluno dos cursos de informática, presencial ou EAD? Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes?
 
-Se respondeu **sim** a algumas destas questões, convidamos você a participar do **XIX Torneio de programaçã UNINOVE**.
-
+Se respondeu **sim** a algumas destas questões, convidamos você a participar do **XIX Torneio de programação UNINOVE**.
 
 
 Este é o tradicional torneio de programação da UNINOVE, onde os alunos, calouros e veteranos, podemos testar suas habilidades nas mais diferentes linguagens de programação, resolvendo problemas  de programação, dos simples aos mais desafiadores.
+
+Neste ano, 
 
 Os melhores alunos serão convidados a participar de um grupo especial, um time de programadores para representar a UNINOVE nas competições academicas, como a OBI (Olimpiadas Brasileira de Informática) e a Maratona de Programação.
 
