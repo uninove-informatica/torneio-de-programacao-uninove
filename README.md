@@ -6,9 +6,8 @@ Você é aluno dos cursos de informática, presencial ou EAD? Você gosta do des
 Se respondeu **sim** a algumas destas questões, convidamos você a participar do **XIX Torneio de programação UNINOVE**.
 
 
-Este é o tradicional torneio de programação da UNINOVE, onde os alunos, calouros e veteranos, podemos testar suas habilidades nas mais diferentes linguagens de programação, resolvendo problemas  de programação, dos simples aos mais desafiadores.
+Este é o tradicional torneio de programação da UNINOVE, onde os alunos calouros ou veteranos, podem testar suas habilidades nas mais diferentes linguagens de programação, resolvendo problemas  de programação, dos simples aos mais desafiadores.
 
-Neste ano, 
 
 Os melhores alunos serão convidados a participar de um grupo especial, um time de programadores para representar a UNINOVE nas competições academicas, como a OBI (Olimpiadas Brasileira de Informática) e a Maratona de Programação.
 
@@ -45,14 +44,24 @@ Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 -------------------
 
 ## Datas importantes:
-Inscrições: Até o dia **08/06**.
-
-Torneio da **manhã**: dia **09/06** às **9hs**.
-https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3755
+#### Inscrições: Até o dia **08/06**.
 
 
-Torneio da **noite**: dia **09/06** às **19:30hs**.
-https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3756
+#### MANHÃ
+
+| Torneio da **manhã**  |  **09/06**   |
+| ------------ | ------------ |
+| início |  **9hs** |
+| Acesso | https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3755   |
+
+#### NOITE
+
+| Torneio da **manhã**  |  **09/06**   |
+| ------------ | ------------ |
+| início |  **19:30hs** |
+| Acesso | https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3756  |
+
+Linguagens do torneio: **C, JAVA, Python 3, C++, C# e Javascript**. 
 
 
 A chave de acesso (PASSPHRASE) será informado no grupo do Telegram: https://t.me/xix_torneio_uninove
