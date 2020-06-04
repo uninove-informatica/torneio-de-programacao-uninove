@@ -51,7 +51,7 @@ Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 -------------------
 
 ## Datas importantes:
-#### Inscrições: Até o dia ### **08/06**.
+#### Inscrições: Até o dia **08/06**.
 
 
 #### MANHÃ
