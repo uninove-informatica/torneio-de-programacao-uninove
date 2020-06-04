@@ -2,6 +2,7 @@
 ![UNINOVE](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/uninove.png)
 
 Você é aluno dos cursos de informática, **presencial** ou **EAD**? 
+
 Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes?
 
 
