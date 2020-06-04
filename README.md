@@ -1,7 +1,9 @@
 # **XIX Torneio de Programação UNINOVE**
 ![UNINOVE](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/uninove.png)
 
-Você é aluno dos cursos de informática, presencial ou EAD? Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes?
+Você é aluno dos cursos de informática, **presencial** ou **EAD**? 
+Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes?
+
 
 Se respondeu **sim** a algumas destas questões, convidamos você a participar do **XIX Torneio de programação UNINOVE**.
 
