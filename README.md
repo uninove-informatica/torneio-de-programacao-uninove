@@ -22,21 +22,21 @@ Para participar é simples. Siga os seguintes passos:
 
 ## Como participar?
 
-**1º PASSO**
+**1º PASSO:**
 Os alunos devem realizar a inscrição no endereço: **https://www.site.com.br**
 
-**2º Passo**
+**2º PASSO:**
 O torneio será online. 
 Para participar você deve possuir uma conta no sistema do URI Online.
 Se caso não possuir uma conta no URI Online cadastre-se neste link: **https://www.urionlinejudge.com.br/judge/pt/login**
 
-**3º Passo**
+**3º PASSO:**
 Criamos um grupo de apoio e de exercícios preparatório ao torneio.
 Sua participação é muito importante. Entre neste link: **https://uoj.app/d-6221**
 
 ![Grupo de apoio](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/inscricao_XIX_Torneio.PNG)
 
-**4º Passo**
+**4º PASSO:**
 Fique atento as datas de aquecimento e do torneio. 
 Leia atentamente as instruções.
 
