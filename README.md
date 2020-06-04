@@ -14,6 +14,9 @@ Este é o tradicional torneio de programação da UNINOVE, onde os alunos calour
 
 Os melhores alunos serão convidados a participar de um grupo especial, um time de programadores para representar a UNINOVE nas competições academicas, como a OBI (Olimpiadas Brasileira de Informática) e a Maratona de Programação.
 
+Veja os nossos resultados de 2019: 
+https://www.uninove.br/alunos-dos-cursos-de-informatica-estao-na-final-da-maratona-sbc-de-programacao/
+
 
 
 Para participar é simples. Siga os seguintes passos:
@@ -40,21 +43,22 @@ Sua participação é muito importante. Entre neste link: **https://uoj.app/d-62
 Fique atento as datas de aquecimento e do torneio. 
 Leia atentamente as instruções.
 
-As instruções da competição serão informadas no grupo do Telegram xix_torneio_uninove.
+As instruções da competição serão informadas no grupo do Telegram **xix_torneio_uninove**.
+
 Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 
 
 -------------------
 
 ## Datas importantes:
-#### Inscrições: Até o dia **08/06**.
+#### Inscrições: Até o dia ###**08/06**.
 
 
 #### MANHÃ
 
 | Torneio da **manhã**  |  **09/06**   |
 | ------------ | ------------ |
-| início |  **9hs** |
+| início |  **09hs** |
 | Acesso | https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3755   |
 
 #### NOITE
@@ -67,4 +71,4 @@ Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 Linguagens do torneio: **C, JAVA, Python 3, C++, C# e Javascript**. 
 
 
-A chave de acesso (PASSPHRASE) será informado no grupo do Telegram: https://t.me/xix_torneio_uninove
+A chave de acesso (PASSPHRASE) será informado no grupo do Telegram: **https://t.me/xix_torneio_uninove**
