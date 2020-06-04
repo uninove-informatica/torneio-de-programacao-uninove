@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# **XIX Torneio de Programação UNINOVE**
+![UNINOVE](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/uninove.png)
 
-You can use the [editor on GitHub](https://github.com/uninove-informatica/torneio-de-programacao-uninove/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você conhece alguma linguagem de programação? Você gosta do desafio de programar? Sente-se motivado por resolver problemas diferentes e inteligentes? 
+Convidamos você a participar do **XIX Torneio de programaçã UNINOVE**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este é o tradicional torneio de programação da UNINOVE, onde os alunos, calouros e veteranos, podemos testar suas habilidades nas mais diferentes linguagens de programação, resolvendo problemas  de programação, dos simples aos mais desafiadores.
 
-### Markdown
+Para participar é simples. Siga os seguintes passos:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Como participar?
 
-- Bulleted
-- List
+**1º PASSO**
+Os alunos devem realizar a inscrição no endereço: www.site.com.br
 
-1. Numbered
-2. List
+**2º Passo**
+O torneio será online. 
+Para participar você deve possuir uma conta no sistema do URI Online.
+Se caso não possuir uma conta no URI Online cadastre-se neste link: https://www.urionlinejudge.com.br/judge/pt/login
 
-**Bold** and _Italic_ and `Code` text
+**3º Passo**
+Criamos um grupo de apoio e de exercícios preparatório ao torneio.
+Sua participação é muito importante.
+Entre neste link: https://uoj.app/d-6221
 
-[Link](url) and ![Image](src)
-```
+![Grupo de apoio](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/inscricao_XIX_Torneio.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uninove-informatica/torneio-de-programacao-uninove/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**4º Passo**
+Fique atento as datas de aquecimento e do torneio. Leia atentamente as instruções.
