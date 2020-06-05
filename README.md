@@ -26,7 +26,7 @@ Para participar é simples. Siga os seguintes passos:
 ## Como participar?
 
 **1º PASSO:**
-Os alunos devem realizar a inscrição no endereço: **https://www.site.com.br**
+Os alunos devem realizar a inscrição no endereço: **https://forms.gle/h2ZHmRaiZwPp9yjV9**
 
 **2º PASSO:**
 O torneio será online. 
