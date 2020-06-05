@@ -32,7 +32,7 @@ Os alunos devem realizar a inscrição no endereço: **https://forms.gle/h2ZHmRa
 O torneio será online. 
 Para participar você deve possuir uma conta no sistema do URI Online.
 Se caso não possuir uma conta no URI Online cadastre-se neste link: **https://www.urionlinejudge.com.br/judge/pt/login**
-Para ajudar no processo de criação da conta no URI Online e outras dicas acesse os vídeos explicativos em: https://www.youtube.com/geracaoti
+Para ajudar no processo de criação da conta no URI Online e outras dicas acesse os vídeos explicativos em: **https://www.youtube.com/geracaoti**
 
 **3º PASSO:**
 Criamos um grupo de apoio e de exercícios preparatório ao torneio.
