@@ -36,7 +36,7 @@ Se caso não possuir uma conta no URI Online cadastre-se neste link: **https://w
 **3º PASSO:**
 Criamos um grupo de apoio e de exercícios preparatório ao torneio.
 Sua participação é muito importante. Entre neste link: **https://uoj.app/d-6221**
-
+Utilize a KEY: IMIWnN8
 ![Grupo de apoio](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/inscricao_XIX_Torneio.PNG)
 
 **4º PASSO:**
@@ -51,19 +51,19 @@ Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 -------------------
 
 ## Datas importantes:
-#### Inscrições: Até o dia **08/06**.
+#### Inscrições: Até o dia **08/06**, às 08:00hs.
 
 
 #### MANHÃ
 
-| Torneio da **manhã**  |  **09/06**   |
+| Torneio da **manhã**  |  **08/06**   |
 | ------------ | ------------ |
 | início |  **09hs** |
 | Acesso | https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3755   |
 
 #### NOITE
 
-| Torneio da **manhã**  |  **09/06**   |
+| Torneio da **manhã**  |  **08/06**   |
 | ------------ | ------------ |
 | início |  **19:30hs** |
 | Acesso | https://www.urionlinejudge.com.br/judge/pt/tournaments/rank/3756  |
