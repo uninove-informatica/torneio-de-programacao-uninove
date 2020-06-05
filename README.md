@@ -19,7 +19,7 @@ https://www.uninove.br/alunos-dos-cursos-de-informatica-estao-na-final-da-marato
 
 
 
-Para participar é simples. Siga os seguintes passos:
+Para participar é simples e divertido. Siga os seguintes passos:
 
 
 
@@ -32,18 +32,20 @@ Os alunos devem realizar a inscrição no endereço: **https://forms.gle/h2ZHmRa
 O torneio será online. 
 Para participar você deve possuir uma conta no sistema do URI Online.
 Se caso não possuir uma conta no URI Online cadastre-se neste link: **https://www.urionlinejudge.com.br/judge/pt/login**
+Para ajudar no processo de criação da conta no URI Online e outras dicas acesse os vídeos explicativos em: https://www.youtube.com/geracaoti
 
 **3º PASSO:**
 Criamos um grupo de apoio e de exercícios preparatório ao torneio.
 Sua participação é muito importante. Entre neste link: **https://uoj.app/d-6221**
-Utilize a KEY: IMIWnN8
+Utilize a KEY: **IMIWnN8**
+
 ![Grupo de apoio](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/inscricao_XIX_Torneio.PNG)
 
 **4º PASSO:**
 Fique atento as datas de aquecimento e do torneio. 
 Leia atentamente as instruções.
 
-As instruções da competição serão informadas no grupo do Telegram **xix_torneio_uninove**.
+As instruções da competição serão informadas no canal do Telegram **xix_torneio_uninove**.
 
 Clique no link para entrar no grupo: **https://t.me/xix_torneio_uninove**
 
