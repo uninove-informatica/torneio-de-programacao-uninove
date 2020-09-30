@@ -18,7 +18,9 @@ Veja os nossos resultados de 2019:
 https://www.uninove.br/alunos-dos-cursos-de-informatica-estao-na-final-da-maratona-sbc-de-programacao/
 
 Atenção: Teremos uma apresentação online neste sábado, dia 03/10, sobre o torneio, dicas e surpresas.
-Compareça em: **meet.google.com/xua-dvnj-htp**, no dia 03/10, às 14hs.
+
+Compareça em: **https://meet.google.com/xua-dvnj-htp**, no dia 03/10, às 14hs.
+
 
 Para participar é simples e divertido. Siga os seguintes passos:
 
@@ -40,7 +42,9 @@ Para ajudar no processo de criação da conta no URI Online e outras dicas acess
 **3º PASSO:**
 Criamos um grupo de apoio e de exercícios preparatório ao torneio.
 Sua participação é muito importante. Entre neste link: **https://uoj.app/d-6651**
+
 Utilize a KEY: **m4fujkk**
+
 
 ![Grupo de apoio](https://github.com/uninove-informatica/torneio-de-programacao-uninove/blob/master/inscricao_XX_Torneio.PNG)
 
