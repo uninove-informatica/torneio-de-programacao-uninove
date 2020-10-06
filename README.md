@@ -66,6 +66,12 @@ Clique no link para entrar no grupo: **https://t.me/torneio_uninove**
 Antes de iniciar o acesso ao torneio, não se esqueça de criar o seu **TIME Individual**. 
 Realize esta operação em: https://www.urionlinejudge.com.br/judge/pt/teams/add
 
+
+#### Sala de apoio ao Torneio:
+https://meet.google.com/xiv-ghth-vuw
+
+
+
 #### MANHÃ
 
 | Torneio da **manhã**  |  **08/10**   |
