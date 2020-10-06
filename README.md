@@ -68,7 +68,7 @@ Realize esta operação em: https://www.urionlinejudge.com.br/judge/pt/teams/ad
 
 
 #### Sala de apoio ao Torneio:
-https://meet.google.com/xiv-ghth-vuw
+**https://meet.google.com/xiv-ghth-vuw**
 
 
 
